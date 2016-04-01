@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?pde version="3.8"?><target name="cathy" sequenceNumber="23">
 <locations>
+<<<<<<< HEAD
 <location path="/opt/program_files/eclipsercp/eclipse/plugins" type="Directory"/>
+=======
+<location path="/opt/install/rcp/eclipse/plugins" type="Directory"/>
+>>>>>>> 706993ecae3f878b93eb9340913f6298a6fa54c4
 </locations>
 </target>
